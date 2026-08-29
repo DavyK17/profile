@@ -1,6 +1,6 @@
 # Davy Kamanzi
 
-I'm a full-stack engineer based in Nairobi, Kenya. I'm currently designing and building **Koloseum**, Kenya's competition platform for esports, as a multi-service ecosystem serving Players, gaming Lounges, and Backroom (Koloseum staff). All microservices are built with SvelteKit and Supabase, with business rules enforced in PostgreSQL.
+I'm a full-stack engineer based in Nairobi, Kenya and I've been building and shipping web software since 2020. I'm currently designing and building **Koloseum**, Kenya's competition platform for esports, as a multi-service ecosystem serving players, gaming lounges, and Koloseum staff. All microservices are built with SvelteKit and Supabase, with business rules enforced in PostgreSQL.
 
 Koloseum's application repositories are all private. To review public evidence of my work:
 
